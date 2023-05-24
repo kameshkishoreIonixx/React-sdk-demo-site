@@ -1,6 +1,6 @@
 {
   "name": "react-sdk-demo-site",
-  "version": "1.0.0",
+  "version": "1.0.0-1",
   "description": "This SDK is a demo for deploy in NPM",
   "main": "./dist/cjs/index.js",
   "module": "./dist/esm/index.js",
